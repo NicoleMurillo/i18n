@@ -3,8 +3,11 @@
     "Company": "Empresa",
     "Salary": "Salario",
     "City": "Ciudad",
-    "PublicationDate": "Fecha de publicación",
+    "Publication date": "Fecha de publicación",
     "Views": "No. de visitas",
-    "million": "millón"
+    "million": "millón",
+    "Manager": "Gerente",
+    "Software engineer": "Ingeniero de software",
+    "Nurse": "Enfermero"
   }
   
